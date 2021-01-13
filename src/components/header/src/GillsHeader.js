@@ -22,7 +22,7 @@ const GillsHeader = (props) => {
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
-                <span className="social-item flex flex-lign_center">
+                <span className="social-item flex flex-align_center">
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
