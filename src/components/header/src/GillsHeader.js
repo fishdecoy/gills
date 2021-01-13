@@ -35,7 +35,6 @@ const GillsHeader = () => {
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
 
-
             </div>
         </div>
     )
