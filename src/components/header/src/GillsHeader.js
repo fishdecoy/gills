@@ -14,28 +14,27 @@ const GillsHeader = (props) => {
                 <span className="photo"></span>
             </div>
             <div className={baseHeader + ' social flex flex-start flex-column'}>
-                <span className="social-item flex">
+                <span className="social-item flex flex-align_center">
                     <p className="social-item_icon"></p>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
-                <span className="social-item flex">
+                <span className="social-item flex flex-align_center">
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
-                <span className="social-item flex">
+                <span className="social-item flex flex-lign_center">
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
-                <span className="social-item flex">
+                <span className="social-item flex flex-align_center">
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
-                <span className="social-item flex">
+                <span className="social-item flex flex-align_center">
                     <i className="social-item_icon"></i>
                     <span className="social-item_text">pg.delbert@gmail.com</span>
                 </span>
 
-                
             </div>
         </div>
     )
